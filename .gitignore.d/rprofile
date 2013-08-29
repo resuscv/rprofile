@@ -1,2 +1,10 @@
 *
 !.Rprofile
+!.config/Rprofile/SmartRequire.R
+!.config/Rprofile/WriteCSV.R
+!.config/Rprofile/ls.objects.R
+!.config/Rprofile/prettyprint.R
+!.config/Rprofile/r-mass-source.R
+!.config/Rprofile/sql-pita.R
+!.config/Rprofile/tictoc.R
+!.gitignore.d/rprofile
